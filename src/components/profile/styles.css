@@ -1,0 +1,32 @@
+/* 
+. = class
+# = ID
+*/
+
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.box{
+    display: inline-block;
+    height: 50px;
+    width: 150px;
+    background-color: red;
+}
+
+.box2{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    
+}
+.box3{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    /* margin: 2px 1px 2px 1px; */
+}
